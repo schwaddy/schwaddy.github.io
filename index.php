@@ -1,6 +1,6 @@
 <?php 
 
-foreach (glob("../*.html") as $filename)
+foreach (glob("*.html") as $filename)
 {
     include $filename;
 }
