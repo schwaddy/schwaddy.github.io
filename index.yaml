@@ -1,0 +1,37 @@
+--- 
+title: hobixification
+tagline: nice, nice, very nice
+link: http://localhost:8000/schwad
+period: 00:60:00
+created: 
+issued: 
+modified: 
+authors: 
+  schwad: &id001 
+    name: Nick Schwaderer
+    url: https://schwad.github.io
+    email: nicholas.schwaderer@gmail.com
+contributors: 
+entries: 
+- !^entry 
+  title: A New Day
+  created: 2022-03-18 16:09:05 +00:00
+  author: *id001
+  content: !str:RedCloth::TextileDoc |
+    But you see, you have to actually visit here to see the content!
+
+  tagline: !str:RedCloth::TextileDoc looks like we can do all sorts of posts
+  summary: !str:RedCloth::TextileDoc and here we are again. another day on hobix and another day of content
+- !^entry 
+  title: We Are Live
+  created: 2022-03-18 14:36:41 +00:00
+  author: *id001
+  content: !str:RedCloth::TextileDoc |
+    !images/schwad.jpeg! 
+    Holy cow. I sit here traipsing the caves and passageways of this brand-new-yet-somehow-ancient underbelly.
+    Perhaps I'm tapping ancient structures, idioms, or maybe it's all beautiful and brand new. I'm not sure.
+
+  tagline: !str:RedCloth::TextileDoc And just like that, the boat surfaced
+  summary: !str:RedCloth::TextileDoc |
+    Ah yes, can we believe it? After years of research and RnD, we have a Hobix! My only concern is that we did not properly evaluate it for risk of, say, the singularity. Ah well, it's just a feature not a bug,  right?
+
