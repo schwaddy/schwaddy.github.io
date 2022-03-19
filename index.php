@@ -1,1 +1,8 @@
-<?php include_once("index.html"); ?>
+<?php 
+
+foreach (glob("../*.html") as $filename)
+{
+    include $filename;
+}
+
+?>
