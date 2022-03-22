@@ -1,16 +1,16 @@
-<?xml version='1.0'?><rss xmlns:sy='http://purl.org/rss/1.0/modules/syndication/' xmlns:admin='http://webns.net/mvcb/' version='2.0' xmlns:dc='http://purl.org/dc/elements/1.1/' xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'>
+<?xml version='1.0'?><rss xmlns:dc='http://purl.org/dc/elements/1.1/' xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#' xmlns:sy='http://purl.org/rss/1.0/modules/syndication/' xmlns:admin='http://webns.net/mvcb/' version='2.0'>
     <channel>
     <title>hobixification</title>
-    <link>http://schwaddy.github.io</link>
+    <link>http://localhost:3000</link>
     <description>nice, nice, very nice</description>
     <dc:language>en-us</dc:language>
     <dc:creator/>
-    <dc:date>2022-03-22T17:24:16+00:00</dc:date>
+    <dc:date>2022-03-22T22:36:13+00:00</dc:date>
     <admin:generatorAgent rdf:resource='http://hobix.com/?v=0.4'/>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <sy:updateBase>2000-01-01T12:00+00:00</sy:updateBase>
-    <item><title>A New Day</title><link>http://schwaddy.github.io/a_new_day.html</link><guid isPermaLink='false'>a_new_day@http://schwaddy.github.io</guid><dc:subject>.</dc:subject><dc:creator>Nick Schwaderer</dc:creator><dc:date>2022-03-18T16:10:01+00:00</dc:date><description>&lt;p&gt;But you see, you have to actually visit here to see the content!&lt;/p&gt;</description></item><item><title>We Are Live</title><link>http://schwaddy.github.io/news/we_are_live.html</link><guid isPermaLink='false'>news/we_are_live@http://schwaddy.github.io</guid><dc:subject>news</dc:subject><dc:subject>news</dc:subject><dc:creator>Nick Schwaderer</dc:creator><dc:date>2022-03-18T14:37:42+00:00</dc:date><description>&lt;p&gt;&lt;img src=&quot;images/schwad.jpeg&quot; alt=&quot;&quot; /&gt; &lt;br /&gt;
+    <item><title>A New Day</title><link>http://localhost:3000/a_new_day.html</link><guid isPermaLink='false'>a_new_day@http://localhost:3000</guid><dc:subject>.</dc:subject><dc:creator>Nick Schwaderer</dc:creator><dc:date>2022-03-18T16:10:01+00:00</dc:date><description>&lt;p&gt;But you see, you have to actually visit here to see the content!&lt;/p&gt;</description></item><item><title>We Are Live</title><link>http://localhost:3000/news/we_are_live.html</link><guid isPermaLink='false'>news/we_are_live@http://localhost:3000</guid><dc:subject>news</dc:subject><dc:subject>news</dc:subject><dc:creator>Nick Schwaderer</dc:creator><dc:date>2022-03-18T14:37:42+00:00</dc:date><description>&lt;p&gt;&lt;img src=&quot;images/schwad.jpeg&quot; alt=&quot;&quot; /&gt; &lt;br /&gt;
 Holy cow. I sit here traipsing the caves and passageways of this brand-new-yet-somehow-ancient underbelly.&lt;br /&gt;
 Perhaps I&amp;#8217;m tapping ancient structures, idioms, or maybe it&amp;#8217;s all beautiful and brand new. I&amp;#8217;m not sure.&lt;/p&gt;</description></item></channel>
 </rss>

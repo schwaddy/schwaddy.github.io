@@ -1,15 +1,15 @@
 --- 
 title: hobixification
 tagline: nice, nice, very nice
-link: http://schwaddy.github.io/
+link: http://localhost:3000
 period: 00:60:00
 created: 
 issued: 
 modified: 
 authors: 
   schwad: &id001 
-    email: nicholas.schwaderer@gmail.com
     url: https://schwad.github.io
+    email: nicholas.schwaderer@gmail.com
     name: Nick Schwaderer
 contributors: 
 entries: 

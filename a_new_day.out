@@ -5,9 +5,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>
-hobixification
-</title>
+<title>title</title>
 
 <style type="text/css">
 
@@ -230,71 +228,17 @@ h1, h2, h3 {
 </ul>
 </div>
 
+
 <div class="sidebarBox">
 <p>Built upon <a href="http://hobix.com">Hobix</a></p>
 </div>
 
-
-        <div class="sidebarBox">
-        <h2 class="sidebarTitle">Tags</h2>
-        <ul>
-        
-          <li>
-            <a href="http://localhost:3000/tags/news/index.html">news</a>:&nbsp;1
-          </li>
-        
-        </ul>
-        </div>
-      
 </div>
+
 
 
 <div id="blog">
-
-
-    <a name="20220318"></a>
-    
-<h2 class="dayHeader">Friday, March 18, 2022</h2>
-
-    
-        
-<div class="entry">
-    
-<h3 class="entryTitle">A New Day</h3>
-<div class="entryTagline">looks like we can do all sorts of posts</div>
-
-    <div class="entryContent"><p>and here we are again. another day on hobix and another day of content</p></div>
-
-    
-<div class="entryContent"><p>But you see, you have to actually visit here to see the content!</p></div>
-
-</div>
-<div class="entryFooter">
-posted by Nick Schwaderer | <a href="http://localhost:3000/a_new_day.html">04:09 PM</a>
-</div>
-
-    
-        
-<div class="entry">
-    
-<h3 class="entryTitle">We Are Live</h3>
-<div class="entryTagline">And just like that, the boat surfaced</div>
-
-    <div class="entryContent"><p>Ah yes, can we believe it? After years of research and RnD, we have a Hobix! My only concern is that we did not properly evaluate it for risk of, say, the singularity. Ah well, it&#8217;s just a feature not a bug,  right?</p></div>
-
-    
-<div class="entryContent"><p><img src="images/schwad.jpeg" alt="" /> <br />
-Holy cow. I sit here traipsing the caves and passageways of this brand-new-yet-somehow-ancient underbelly.<br />
-Perhaps I&#8217;m tapping ancient structures, idioms, or maybe it&#8217;s all beautiful and brand new. I&#8217;m not sure.</p></div>
-
-</div>
-<div class="entryFooter">
-posted by Nick Schwaderer | <a href="http://localhost:3000/news/we_are_live.html">02:36 PM</a>
-</div>
-
-    
-
-
+entry
 </div>
 
 

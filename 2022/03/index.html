@@ -194,7 +194,7 @@ h1, h2, h3 {
 
 
 <div id="banner">
-<h1 class="title"><a href="http://schwaddy.github.io">hobixification</a></h1>
+<h1 class="title"><a href="http://localhost:3000">hobixification</a></h1>
 <div class="tagline">nice, nice, very nice</div>
 </div>
 
@@ -204,7 +204,7 @@ h1, h2, h3 {
 <div id="sidebar">
 
 <div class="sidebarBox">
-<h2 class="sidebarTitle">Archivez</h2>
+<h2 class="sidebarTitle">Archives</h2>
 <ul>
 
 
@@ -226,17 +226,27 @@ h1, h2, h3 {
 <div class="sidebarBox">
 <h2 class="sidebarTitle">Syndicate</h2>
 <ul>
-    <li><a href="http://schwaddy.github.io/index.xml">RSS 2.0</a></li>
+    <li><a href="http://localhost:3000/index.xml">RSS 2.0</a></li>
 </ul>
 </div>
-
 
 <div class="sidebarBox">
 <p>Built upon <a href="http://hobix.com">Hobix</a></p>
 </div>
 
-</div>
 
+        <div class="sidebarBox">
+        <h2 class="sidebarTitle">Tags</h2>
+        <ul>
+        
+          <li>
+            <a href="http://localhost:3000/tags/news/index.html">news</a>:&nbsp;1
+          </li>
+        
+        </ul>
+        </div>
+      
+</div>
 
 
 <div id="blog">
@@ -258,39 +268,9 @@ h1, h2, h3 {
     
 <div class="entryContent"><p>But you see, you have to actually visit here to see the content!</p></div>
 
-    
-  
-  <a name="comments"></a>
-  <div id="comments">
-  
-  
-
-    
-  <div class="entry">
-  <form id="userComment" method="post" action="/control/comment/a_new_day">
-    <div class="entryAttrib">
-       <div class="entryAuthor"><input name="hobix_comment:author" type="textbox" size="15" maxlength="50" /></div>
-       <div id="liveTime" class="entryTime">said on <nobr>DD Mon YYYY</nobr> <nobr>at HH:MM AM</nobr></div>
-    </div>
-    <div class="entryContentOuter"><div class="entryContent">
-       <textarea name="hobix_comment:content" rows="6" cols="50"></textarea>
-       <p><input type="button" name="pleasePreview" value="preview" 
-           onClick="new Ajax.Request('/control/preview', {parameters: Form.serialize('userComment'), onComplete: function(req) { $('textilePreview').innerHTML = req.responseText }})" />
-          <input type="submit" name="hobix_comment:submit" value="&gt;&gt;" />
-          <small>* do <a href="javascript:quickRedReference();">fancy stuff</a> in your comment.</small>
-       </p>
-       <div id="textileWrap"><!-- <h4>PREVIEW PANE</h4> -->
-       <div id="textilePreview"></div>
-       </div>
-       </div>
-    </div></div>
-     
-  </form>
-  </div>
-
 </div>
 <div class="entryFooter">
-posted by Nick Schwaderer | <a href="http://schwaddy.github.io/a_new_day.html">04:09 PM</a>
+posted by Nick Schwaderer | <a href="http://localhost:3000/a_new_day.html">04:09 PM</a>
 </div>
 
     
@@ -307,39 +287,9 @@ posted by Nick Schwaderer | <a href="http://schwaddy.github.io/a_new_day.html">0
 Holy cow. I sit here traipsing the caves and passageways of this brand-new-yet-somehow-ancient underbelly.<br />
 Perhaps I&#8217;m tapping ancient structures, idioms, or maybe it&#8217;s all beautiful and brand new. I&#8217;m not sure.</p></div>
 
-    
-  
-  <a name="comments"></a>
-  <div id="comments">
-  
-  
-
-    
-  <div class="entry">
-  <form id="userComment" method="post" action="/control/comment/news/we_are_live">
-    <div class="entryAttrib">
-       <div class="entryAuthor"><input name="hobix_comment:author" type="textbox" size="15" maxlength="50" /></div>
-       <div id="liveTime" class="entryTime">said on <nobr>DD Mon YYYY</nobr> <nobr>at HH:MM AM</nobr></div>
-    </div>
-    <div class="entryContentOuter"><div class="entryContent">
-       <textarea name="hobix_comment:content" rows="6" cols="50"></textarea>
-       <p><input type="button" name="pleasePreview" value="preview" 
-           onClick="new Ajax.Request('/control/preview', {parameters: Form.serialize('userComment'), onComplete: function(req) { $('textilePreview').innerHTML = req.responseText }})" />
-          <input type="submit" name="hobix_comment:submit" value="&gt;&gt;" />
-          <small>* do <a href="javascript:quickRedReference();">fancy stuff</a> in your comment.</small>
-       </p>
-       <div id="textileWrap"><!-- <h4>PREVIEW PANE</h4> -->
-       <div id="textilePreview"></div>
-       </div>
-       </div>
-    </div></div>
-     
-  </form>
-  </div>
-
 </div>
 <div class="entryFooter">
-posted by Nick Schwaderer | <a href="http://schwaddy.github.io/news/we_are_live.html">02:36 PM</a>
+posted by Nick Schwaderer | <a href="http://localhost:3000/news/we_are_live.html">02:36 PM</a>
 </div>
 
     
