@@ -8,9 +8,9 @@ issued:
 modified: 
 authors: 
   schwad: &id001 
+    name: Nick Schwaderer
     url: https://schwad.github.io
     email: nicholas.schwaderer@gmail.com
-    name: Nick Schwaderer
 contributors: 
 entries: 
 - !^entry 
